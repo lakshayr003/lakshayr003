@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lakshayr003
+- 🔑 I am experienced in python, c++. I have also worked with React.
 - 👀 I’m interested in building applications.
 - 🌱 I’m currently learning django and operating systems.
 - 📫 How to reach me - lakshayr003@gmail.com
