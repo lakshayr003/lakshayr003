@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshayr003
-- 👀 I’m interested in building things, and solving problems.
+- 👀 I’m interested in building applications.
 - 🌱 I’m currently learning django and operating systems.
 - 📫 How to reach me - lakshayr003@gmail.com
 
